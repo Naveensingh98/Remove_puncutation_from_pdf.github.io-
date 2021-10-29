@@ -1,0 +1,87 @@
+Advance Praise for 
+Head First Python
+, Second EditionﬁA Python book should be as much fun as the language is. With Head First Python, master teacher Paul 
+Barry delivers a quick-paced, entertaining and engaging guide to the language that will leave you well 
+prepared to write real-world Python code.ﬂ
+Š  Dr. Eric Freeman, computer scientist, technology educator, and former CTO 
+of Disney Online
+ﬁHead First Python
+ is a great introduction to both the language and how to use Python in the real world. 
+
+subjects like collections and immutability. If you™re looking for  a great introduction to Python, then this 
+is the place to start.ﬂŠ  
+
+become a favourite in the rapidly growing collection of great Python guides.  The content is structured 
+to deliver high impact to the reader, and is heavily focused on being productive as soon as possible.  All 
+the necessary topics are covered with great clarity, and the entertaining delivery makes this book a 
+delight to read.ﬂ
+Š  Caleb Hattingh, 
+author of 
+20 Python Libraries You Aren™t Using (But Should)
+ and Learning Cython
+
+expected to.ﬂ
+Š  Bill Lubanovic, author of Introducing Python
+Praise for the first edition
+ﬁHead First Python
+ is a great introduction to not just the Python language, but Python as it™s used in the 
+real world. The book goes beyond the syntax to teach you how to create applications for Android phones, 
+Google™s App Engine, and more.ﬂ
+
+ﬁWhere other books start with theory and progress to examples, 
+Head First Python
+ jumps right in with code and explains the theory as you read along.
+ This is a much more effective learning environment, because 
+it engages the reader to 
+do
+ from the very beginning. It was also just a joy to read. 
+ It was fun without 
+being flippant and informative without being condescending. The breadth of examples and explanation 
+covered the majority of what you™ll use in your job every day. I™ll recommend this book to anyone 
+starting out on Python.ﬂŠ  Jeremy Jones, coauthor
+ of
+ Python for Unix and Linux System Administration
+Praise for other 
+Head First 
+booksﬁKathy and Bert™s 
+Head First Java
+ transforms the printed page into the closest thing to a GUI you™ve ever 
+seen. In a wry, hip manner, the authors make learning Java an engaging ‚what™re they gonna do next?™ 
+experience.ﬂ 
+Š  
+Software Development Magazine
+ﬁBeyond the engaging style that drags you forward from know-nothing into exalted Java warrior status, 
+Head 
+First Java
+ covers a huge amount of practical matters that other texts leave as the dreaded ‚exercise for the 
+reader.–™ It™s clever, wry, hip and practicalŠthere aren™t a lot of textbooks that can make that claim and live 
+up to it while also teaching you about object serialization and network launch protocols.ﬂ
+Š  Dr. Dan Russell, Director of User Sciences and Experience Research
+ 
+Stanford University)
+ﬁIt™s fast, irreverent, fun, and engaging. Be carefulŠyou might actually learn something!ﬂ
+Š  
+ 
+The Java Programming 
+Language
+
+Š  Ward Cunningham, inventor of the Wiki and founder of the Hillside Group
+ﬁJust the right tone for the geeked-out, casual-cool guru coder in all of us. The right reference for practi
+-cal development strategiesŠgets my brain going without having to slog through a bunch of tired, stale 
+professor
+ -speak.ﬂ
+Š  Travis Kalanick, cofounder and CEO of Uber
+ﬁThere are books you buy, books you keep, books you keep on your desk, and thanks to O™Reilly and the 
+Head First crew, there is the penultimate category, Head First books. They™re the ones that are dog-eared, 
+mangled, and carried everywhere. 
+Head First SQL
+ is at the top of my stack. Heck, even the PDF I have 
+for review is tattered and torn.ﬂ
+
+ﬁThis book™s admirable clarity, humor and substantial doses of clever make it the sort of book that helps 
+even nonprogrammers think well about problem-solving.ﬂ
+
+ 
+Down and Out in the Magic Kingdom
+ and 
+Someone Comes to Town, Someone Leaves Town
